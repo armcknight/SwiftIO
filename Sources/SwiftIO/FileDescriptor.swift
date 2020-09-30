@@ -1,3 +1,5 @@
+import CHal
+
 /**
 The FileDescriptor struct is used to perform low-level file operations.
 

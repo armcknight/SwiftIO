@@ -1,3 +1,5 @@
+import CHal
+
 public class DigitalInOut {
 		
 	var obj: DigitalIOObject
